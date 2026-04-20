@@ -1,0 +1,84 @@
+{
+  "fecha": "20/04/2026 16:22:49",
+  "total": 6,
+  "detecciones": [
+    {
+      "animal": "caballo",
+      "confianza": "92%",
+      "bbox": [
+        232,
+        39,
+        502,
+        289
+      ],
+      "alimentacion": "Herbivoro: pasto, heno",
+      "habitat": "Praderas, establos",
+      "dato_curioso": "Duermen de pie"
+    },
+    {
+      "animal": "vaca",
+      "confianza": "86%",
+      "bbox": [
+        63,
+        109,
+        240,
+        293
+      ],
+      "alimentacion": "Herbivora: pasto, maiz",
+      "habitat": "Granjas, pastizales",
+      "dato_curioso": "Tienen 4 estómagos"
+    },
+    {
+      "animal": "caballo",
+      "confianza": "78%",
+      "bbox": [
+        398,
+        137,
+        505,
+        297
+      ],
+      "alimentacion": "Herbivoro: pasto, heno",
+      "habitat": "Praderas, establos",
+      "dato_curioso": "Duermen de pie"
+    },
+    {
+      "animal": "oveja",
+      "confianza": "72%",
+      "bbox": [
+        283,
+        175,
+        391,
+        296
+      ],
+      "alimentacion": "Herbivora: pasto, hojas",
+      "habitat": "Praderas, granjas",
+      "dato_curioso": "Reconocen 50 rostros"
+    },
+    {
+      "animal": "vaca",
+      "confianza": "66%",
+      "bbox": [
+        43,
+        184,
+        122,
+        288
+      ],
+      "alimentacion": "Herbivora: pasto, maiz",
+      "habitat": "Granjas, pastizales",
+      "dato_curioso": "Tienen 4 estómagos"
+    },
+    {
+      "animal": "oveja",
+      "confianza": "51%",
+      "bbox": [
+        512,
+        185,
+        576,
+        283
+      ],
+      "alimentacion": "Herbivora: pasto, hojas",
+      "habitat": "Praderas, granjas",
+      "dato_curioso": "Reconocen 50 rostros"
+    }
+  ]
+}
